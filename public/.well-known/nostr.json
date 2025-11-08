@@ -1,0 +1,13 @@
+{
+  "names": {
+    "_": "02734f19cae7850e7bca6c0a2bb6a534f152d5acbd86eece1d2bfbd5d6502003",
+    "bitcoin_rene": "02734f19cae7850e7bca6c0a2bb6a534f152d5acbd86eece1d2bfbd5d6502003"
+  },
+  "relays": {
+    "02734f19cae7850e7bca6c0a2bb6a534f152d5acbd86eece1d2bfbd5d6502003": [
+      "wss://relay.btcrene.com",
+      "wss://nostr.wine"
+    ]
+  }
+}
+
